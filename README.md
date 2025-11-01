@@ -1,1 +1,1 @@
-# Balanced-Brackets
+# Balanced-Brackets This code checks if a string of brackets is balanced by using a stack to ensure that every opening bracket has a corresponding closing bracket in the correct order. The `isBalanced` function returns "YES" if all brackets match properly and "NO" otherwise.
